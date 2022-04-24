@@ -44,7 +44,7 @@ El conjunto de estas características hace que los problemas ambientales se deno
 
 Los gestores abordan estos problemas usando dos aproximaciones extremas (aunque hay posiciones intermedias) cuyas características se muestran en la siguiente figura: 
 
-
+![decisiones](https://github.com/aprendiendo-cosas/TP_mapa_decisional_TAO/raw/main/imagenes/decisiones.jpg)
 
 
 
