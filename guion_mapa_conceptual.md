@@ -46,7 +46,7 @@ Los gestores abordan estos problemas usando dos aproximaciones extremas (aunque 
 
 ![decisiones](https://github.com/aprendiendo-cosas/TP_mapa_decisional_TAO/raw/main/imagenes/decisiones.jpg)
 
-
+En 
 
 
 
