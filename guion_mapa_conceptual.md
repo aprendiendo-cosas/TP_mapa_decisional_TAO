@@ -46,7 +46,23 @@ Los gestores abordan estos problemas usando dos aproximaciones extremas (aunque 
 
 ![decisiones](https://github.com/aprendiendo-cosas/TP_mapa_decisional_TAO/raw/main/imagenes/decisiones.jpg)
 
-En 
+En esta situación, la teoría de la decisión es un marco conceptual que nos ayuda a sistematizar el proceso por el cual se toman decisiones. Esta sistematización ayuda a simplificar los procesos de toma de decisiones, ya que se aplica un marco conceptual común que facilita la implementación de procedimientos de gestión activa y adaptativa. En esta teoría hay una serie de conceptos que debemos conocer:
+
++ Decisión: se refiere al hecho de adoptar una posición concreta sobre un problema en cuestión. Suele implicar la distribución de distintos tipos de recursos (económicos o de cualqluier otro tipo) para abordar el problema. 
++ Centro decisor: Es la persona, personas o institución que tiene la responsabilidad de redistribuir recursos en forma de decisiones.
++ Objetivo: Se refiere al punto al que se quiere llegar adoptando decisiones. Es decir, el objetivo es, de alguna forma, el problema que se quiere resolver. En nuestro caso el objetivo es generar una propuesta de puntos potencialmente útiles para monitorear el avance de las especies de flora exótica e invasora en el páramo colombiano.
++ Valor o criterio: Es un elemento que condiciona la decisión. Los criterios han de estar relacionados con los objetivos. Y se refiere a aquellos conceptos que determinan la decisión. En nuestro caso, por ejemplo, un criterio podría ser la idoneidad del territorio como hábitat para una especie invasora en cuestión.
++ Análisis de la decisión: Se trata de un conjunto de técnicas que usamos para facilitar la toma de decisiones.
+
+
+
+Además, la teoría de la decisión aporta un marco conceptual común que permite abordar los problemas siguiendo la misma aproximación. Se basa en los pasos mostrados en la siguiente imagen:
+
+![marco_decision](https://github.com/aprendiendo-cosas/TP_mapa_decisional_TAO/raw/main/imagenes/marco_conceptual_decision.jpg)
+
+
+
+
 
 
 
