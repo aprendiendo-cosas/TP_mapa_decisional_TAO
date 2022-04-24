@@ -95,6 +95,14 @@ El [Páramo andino](https://es.wikipedia.org/wiki/P%C3%A1ramo_andino) es un ecos
 
 En este curso trabajaremos con los páramos colombianos. Esto se debe a que es el país en el que más información hemos podido recopilar. El siguiente mapa muestra la distribución de nuestra zona de estudio. 
 
+<img src="https://github.com/aprendiendo-cosas/TP_mapa_decisional_TAO/raw/main/imagenes/paramos_colombia.png" alt="paramos" style="zoom:33%;" />
+
+
+
+Hay multitud de formas de reducir el impacto de las especies invasoras. Una de ellas es la definición de protocolos de actuación temprana. Esto consiste en erradicar los focos que vayan apareciendo antes de que su número aumente y sea muy difícil de eliminar. Para ello es necesario conocer con la mayor antelación posible la presencia de estas especies. Esto implica el diseño e implementación de protocolos de monitoreo de la biodiversidad. Ahí es donde se pondrá el foco en este curso. El objetivo es asignar a cada punto del territorio ocupados por páramos un valor de idoneidad desde el punto de vista de la instalación de puntos de muestreo. Este problema decisional se basa en una limitación evidente: no es posible muestrear todo el territorio y hay que priorizar. 
+
+En las siguientes secciones se describe el proceso de construcción de un mapa conceptual para abordar el problema descrito anteriormente. Se seguirá un hilo argumental parecido al que se utilizó en clase. Aquí se pueden ver las diapositivas mostradas en esta parte del curso. 
+
 ## Manos a la obra 
 
 
