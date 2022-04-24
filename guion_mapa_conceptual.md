@@ -128,8 +128,29 @@ El hilo argumental se basa en las siguientes fases:
    + Listar las variables socioecológicas que condicionan la respuesta a la pregunta planteada.
    + Identificar cómo esas variables se "transforman" en criterios. Por ejemplo El mapa de accesos se transforma en un criterio que se puede expresar con la siguiente proposición: " a más distancia más aptitud".
    + Esbozar cómo se relacionarían los criterios en un árbol de decisión usando proposiciones enlazadas.
-   + En este primer paso los distintos grupos propusieron una serie de variables que se pueden ver en este mapa conceptual. El análisis grupal de estas variables proporcionó las siguientes conclusiones generales:
-     + 
+   + En este primer paso los distintos grupos propusieron una serie de variables que se pueden ver en [este](https://github.com/aprendiendo-cosas/TP_mapa_decisional_TAO/raw/main/mapa_conceptual/modelo_conceptual_paramos_inicial_alumnos.drawio.zip) mapa conceptual. El análisis grupal de estas variables proporcionó las siguientes conclusiones generales:
+     + Las variables propuestas pueden agruparse en varios tipos: variables que determinan la distribución potencial de la especie invasora, las que tienen que ver con la vulnerabilidad del territorio para efectivamente "sufrir" una invasión y las que se refieren a la forma en la que "llegan" las invasoras al páramo. Estos tres grupos serán utilizados en las sucesivas versiones del mapa conceptual.
+     + Muchas de las variables propuestas son difícilmente implementables porque no disponemos de datos adecuados.
+     + Las variables que tienen que ver con la distribución potencial de la especie invasora se analizarán independientemente usando la técnica correlacional de los [modelos de nicho ecológico.](https://en.wikipedia.org/wiki/Species_distribution_modelling) 
+   + Tras la primera versión anterior, toda la clase y el profesor trabajaron juntos para ordenar las variables propuestas y esbozar las relaciones entre las mismas. Este trabajo conjunto dio lugar al mapa conceptual que se puede descargar [aquí](https://github.com/aprendiendo-cosas/TP_mapa_decisional_TAO/raw/main/mapa_conceptual/modelo_conceptual_paramos_consensuado_v1.drawio.zip) y que se muestra a continuación (se trata de una representación dinámica. Puedes acercarte y alejarte usando las herramientas que se ven en la parte inferior del esquema).
+   
+<iframe frameborder="0" style="width:100%;height:833px;" src="https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=modelo_conceptual_paramos_consensuado_v1.drawio#R3Vpbc6M2FP41ntk%2B7AwXG8xjYrtxp82lTWZ3Zt9kOMFqBaJCOPb%2B%2BkogLpbodDNTB8NLgo4EWN937mLmrpLjHUPZ%2Fp5GQGaOFR1n7nrmOHbgWeKflJyUxLKdShIzHClZK3jG36FeqKQFjiA%2FW8gpJRxn58KQpimE%2FEyGGKNv58teKTl%2Fa4ZiMATPISKm9CuO%2BL6SOq7rtRNbwPG%2BfrW3mFczCapXq63kexTRt47I3czcFaOUV1fJcQVEwlcDU93387%2FMNr%2BMQcp%2F5Ab68vtDkt99876tjqvgz7%2B%2Bbje%2FflZPOSBSqB3fZBzzIpKklWRyYAxzyjCt3obkI9OcI4KYlBQpp3m5Wm6apnItULVlfqqBFLvP5KV8AiFAaMxQMnNvM2A4AfESfe6pnbh922MOzxkK5RPehKoJ2Z4nRIxscfmKj1DrjhybyNTbBMbh2BEppO6Ailexk1hSz1quok1p7kIN31otsGvZvqMASyVDSvHi5tEtNeJCsfMOppz3MSWspmSknClJqjk6YEFePciL8r00BRyhqGUYkR2wuGKY7ggKsVjS0IzTA8qpXOgRse%2FbnVjnxfLq0%2F3jevPbo1iz3og%2FD7%2Bsto8%2FjV0ZGhNWuuBaPcoQ9CiDbV1KG%2BYX0QYirw4FSYGhHSbnKvF3USoMNPbf3AF5BiGGsdMc%2BOc0O8HgNC8uR3OEBWssx7OVO7t107O5iRBqe55muPbgjHoGoy%2BQCPwQL6SVjRvw%2BTnc82UP3E4P3N6l0PYNtJ%2BY0OwMcxHRGs0fN%2BiNAl8N6ksD9S8YKmf0SQUT5WFkRoFSSCoqXjFB%2BeizBXuhmUEzHoyQwCBkWyRQRfcqjOSFwG7syLuLa7OEOt50kH8oOJPWUOr%2BJGCfB4trg90sa19w1iRDk0Bd8%2FpeX03ysaCbFWq2nQrajn91cLsG3DdE1Qbjxnp%2BfVib5fYfKMLdHNLKadUQw2mII%2Bnfx06DqxVP%2FvA0mOVw160fIIYp5fVLDf%2B%2B4vVj8TeL1w2j3RbCqfb3VatQgCiSTDkYNxW%2B1gD0%2BzKcj%2B0j2GZp%2Bywu24weQsFMziEZfVdhqaf13vDomyXuE4MchO9vumydErdqnYY0Fan%2FrjghaSpy3X824tpG%2B7gptH2Nw4XTw6HXw%2BHFzlNssyh%2BQcJYJAs2bcxIbDvcjz6W27ZzdTZU%2F6JuAotzgpK6VzQpAiw9m%2FKHJ8Csku%2FpAVf4S7cF0hklKB%2B9%2B9G9jzf8OYBjVsvdY9h3nuRw1I08oci6Orc1kUad5GqBpo0xVtmHvbEl9yGwEKWjZz7QzM7riTuO1cN8cDHizbr9vcSTMpnIZYlZTYmbMoK%2Bd11nyXneobdstcs7RZ7Sca%2Fd88NxU23rByFXwLXZN1h3jLU8bS9Nbo2abytCmhQpDidUxwbaeYg%2FeO7nmI2EVcHyMuidVMxrCEFxMXo3aC%2B0nprfl%2F99LAdmM4FUtpBCC%2F4eR4yGiO0KNv42gnEy6A1%2BMuiYbYRI81A9rCBSRiIOaT4ZL6X3eDx3cG7MJoMePdIS%2FZuQQOm7CrZD6QTsZKlH8uG5MLsFOhcyk4ISfREyWGU0Ia2SMLm5WKTTEUzBjS1tLZj01bL%2FEz1i2H4iXc51PjV3N%2F8A"></iframe>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 1. ¿Son todas las variables del mismo tipo? Es de esperar que algunas variables tengan carácter biofísico (precipitación, profundidad del suelo, etc.) y otras socioeconómico (distancia a vías de comunicación, tasa de desempleo por municipio, etc.). Esta distinción será importante cuando las integremos todas para dar una respuesta final.
 2. Fuentes de datos: Una vez identificadas las variables que consideramos relevantes, procederemos a evalular la disponibilidad de datos para su uso en el análisis. En ese proceso quizás tengamos que usar variables subrogadas de las originales. [Aquí](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.13366) tienes una definición de lo que significa variable suborgada (lee solo el Abstract del artículo para una idea general) y [aquí](https://ebooks.publish.csiro.au/content/indicators-and-surrogates-biodiversity-and-environmental-change) un libro completo que trata sobre el asunto. La identificación de las fuentes de datos de partida también nos permitirá caracterizar preliminarmente el procesamiento que será necesario aplicar a los datos originales para satisfacer nuestras necesidades. Esta última frase, que pasa desapercibida, es muy importante porque ese procesamiento ocupará el grueso de la asignatura. En cada uno de los procesos aprenderemos técnicas diferentes (bases de datos, teledetección, cartografía de la vegetación, etc.)
