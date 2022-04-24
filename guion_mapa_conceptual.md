@@ -127,11 +127,9 @@ El hilo argumental se basa en las siguientes fases:
 1. Identificación de variables implicadas en el proceso socioecológico a analizar. Este primer paso implica un nuevo proceso de desagregación, puesto que trataremos de evaluar en qué medida el proceso en cuestión depende de distintas variables biofísicas. Nos preguntaremos: ¿qué variables ambientales y socioeconómicas pueden condicionar la idoneidad de cada punto para instalar en él un punto de monitoreo? Abordamos esta pregunta durante la primera sesión práctica del curso. Nos dividimos en grupos (Ver imagen inferior) y cada grupo hizo lo siguiente:
    + Listar las variables socioecológicas que condicionan la respuesta a la pregunta planteada.
    + Identificar cómo esas variables se "transforman" en criterios. Por ejemplo El mapa de accesos se transforma en un criterio que se puede expresar con la siguiente proposición: " a más distancia más aptitud".
-   + Esbozar cómo se relacionarían los criteiros en un árbol de decisión usando proposiciones enlazadas.
-
-<img src="https://github.com/aprendiendo-cosas/TP_mapa_decisional_TAO/raw/main/imagenes/grupos.png" alt="grupos" style="zoom:33%;" />
-
-
+   + Esbozar cómo se relacionarían los criterios en un árbol de decisión usando proposiciones enlazadas.
+   + En este primer paso los distintos grupos propusieron una serie de variables que se pueden ver en este mapa conceptual. El análisis grupal de estas variables proporcionó las siguientes conclusiones generales:
+     + 
 
 1. ¿Son todas las variables del mismo tipo? Es de esperar que algunas variables tengan carácter biofísico (precipitación, profundidad del suelo, etc.) y otras socioeconómico (distancia a vías de comunicación, tasa de desempleo por municipio, etc.). Esta distinción será importante cuando las integremos todas para dar una respuesta final.
 2. Fuentes de datos: Una vez identificadas las variables que consideramos relevantes, procederemos a evalular la disponibilidad de datos para su uso en el análisis. En ese proceso quizás tengamos que usar variables subrogadas de las originales. [Aquí](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.13366) tienes una definición de lo que significa variable suborgada (lee solo el Abstract del artículo para una idea general) y [aquí](https://ebooks.publish.csiro.au/content/indicators-and-surrogates-biodiversity-and-environmental-change) un libro completo que trata sobre el asunto. La identificación de las fuentes de datos de partida también nos permitirá caracterizar preliminarmente el procesamiento que será necesario aplicar a los datos originales para satisfacer nuestras necesidades. Esta última frase, que pasa desapercibida, es muy importante porque ese procesamiento ocupará el grueso de la asignatura. En cada uno de los procesos aprenderemos técnicas diferentes (bases de datos, teledetección, cartografía de la vegetación, etc.)
