@@ -66,26 +66,49 @@ Además, la teoría de la decisión aporta un marco conceptual común que permit
 
 
 
-## Mapas conceptuales (o mapas decisionales)
+## Mapas conceptuales y flujo de trabajo
+
+Uno de los principales resultados (a la vez que herramienta) que aporta el marco de la teoría de la decisión es la descripción esquemática de las variables (y criterios) que condicionan la decisión. Este esquema toma la forma de un mapa conceptual o mapa decisional. En él se representan de manera esquemática las principales variables, criterios y relaciones entre ellas que afectan a la decisión que hemos de adoptar. La construcción de estos esquemas es un proceso iterativo que suele llevar bastante tiempo. Se puede (debe) de hacer de forma colaborativa teniendo en cuenta las visiones de los distintos actores implicados en el problema en cuestión. 
+
+Una vez que se ha construido el mapa conceptual, suele transformarse en un "flujo de trabajo". Un flujo de trabajo es una secuencia de acciones ordenadas cuya ejecución tiene un objetivo determinado. Esta definición tan genérica se puede particularizar más en nuestro ámbito de trabajo: secuencia de acciones que realizamos sobre un conjunto de datos para satisfacer un objetivo dado. En nuestro caso, el objetivo es responder a la pregunta que vertebra este curso.
+
+Es importante que saber crear flujos de trabajo porque nos ayudan en el proceso de creación y análisis de la información ambiental. En los siguientes enlaces hay información importante sobre cómo construir un flujo de trabajo:
+
++ [El papel de los flujos de trabajo en la reproducibilidad de la ciencia.](https://github.com/aprendiendo-cosas/TP_mapa_decisional_TAO/raw/main/biblio/how_to_flow.pdf) 
++ Descripción de [Kepler](https://github.com/aprendiendo-cosas/TP_mapa_decisional_TAO/raw/main/biblio/kepler.pdf), un sistema de flujo de trabajo científico muy útil (y algo complejo).
++ [Ejemplos de flujos de trabajo.](https://github.com/aprendiendo-cosas/TP_mapa_decisional_TAO/raw/main/biblio/workflow_reusable.pdf) 
+
+Tanto los mapas conceptuales como los flujos de trabajo se construyen usando diversas herramientas digitales. En este curso usaremos una denominada [diagrams.net](https://www.diagrams.net/). Hay versiones gratuitas para mac, windows y también funciona a través de un navegador web. 
 
 
 
+## Nuestro caso de estudio: Especies de flora exóticas e invasoras en el páramo de Colombia
 
+En esta sección se describe con más detalle el problema decisional a abordar. El problema general, expresado en términos ecológicos, es el manejo de especies de flora exótica e invasora en el páramo de Colombia. 
 
-## Flujos de trabajo
+El [Páramo andino](https://es.wikipedia.org/wiki/P%C3%A1ramo_andino) es un ecosistema con las siguientes características:
 
-Un flujo de trabajo es una secuencia de acciones ordenadas cuya ejecución tiene un objetivo determinado. Esta definición tan genérica se puede particularizar más en nuestro ámbito de trabajo: secuencia de acciones que realizamos sobre un conjunto de datos para satisfacer un objetivo dado. En nuestro caso, el objetivo es responder a la pregunta descrita en la sección anterior.
++ Se distribuye entre el límite del árbol y la línea glaciar. Está presente en Venezuela, Colombia, Ecuador y Perú.
++ Son considerados hotspots de biodiversidad (3500 especies de flora. 60% de endemicidad)
++ Son comunes las precipitaciones horizontales (niebla). 
++ También abunda la egetación arbustiva (frailejones).
 
-Es importante que aprendamos a crear flujos de trabajo porque nos ayudan en el proceso de creación y análisis de la información ambiental. En esta sesión construiremos un flujo de trabajo que nos guiará durante el resto de la asignatura.
-
-En los siguientes enlaces tienes información sobre flujos de trabajo. Recomendamos su lectura:
-+ [El papel de los flujos de trabajo en la reproducibilidad de la ciencia.](https://github.com/aprendiendo-cosas/T_flujo_trabajo_ecoinf_ugr/raw/2021-2022/biblio/how_to_flow.pdf) 
-+ Descripción de [Kepler](https://github.com/aprendiendo-cosas/T_flujo_trabajo_ecoinf_ugr/raw/2021-2022/biblio/kepler.pdf), un sistema de flujo de trabajo científico muy útil (y algo complejo).
-+ [Ejemplos de flujos de trabajo.](https://github.com/aprendiendo-cosas/T_flujo_trabajo_ecoinf_ugr/raw/2021-2022/biblio/workflow_reusable.pdf) 
-
-
+En este curso trabajaremos con los páramos colombianos. Esto se debe a que es el país en el que más información hemos podido recopilar. El siguiente mapa muestra la distribución de nuestra zona de estudio. 
 
 ## Manos a la obra 
+
+
+
+SEGURAMENTE TODO LO QUE HAY AQUÍ ES BORRABLE.
+
+- INCORPORAR LO QUE SE HIZO EN LAS DOS SESIONES.
+- PONER ENLACES A LAS DISTINTAS VERSIONES DEL MAPA DECISIONAL
+- COMPLETAR LO QUE HICIMOS Y PONERLO EN BONITO
+- DAR PIE A LOS DOS GUIONES QUE FALTAN:
+  - CREACIÓN DE MAPAS DE CRITERIOS
+  - INTEGRACIÓN DE VARIABLES.
+
+
 
 En este acto docente intentaremos reproducir de manera explícita el proceso que se sigue habitualmente cuando se prepara y ejecuta un proyecto de investigación científica. La idea es que los estudiantes sean capaces de abstraer el conocimiento adquirido para aplicarlo a otras situaciones.
 
@@ -111,7 +134,11 @@ La siguiente figura muestra resumidamente el hilo argumental que seguiremos:
 
 
 
-![image](https://github.com/aprendiendo-cosas/T_flujo_trabajo_ecoinf_ugr/raw/2021-2022/presentacion/metodologia.png)
+
+
+
+
+PONER ENLACE AL PPT CON TODO EL MATERIAL VISTO HASTA AHORA
 
 
 
