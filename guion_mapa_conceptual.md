@@ -1,4 +1,4 @@
-# Construcción de un mapa mental para responder a la pregunta planteada
+# Construcción de un modelo conceptual para responder a la pregunta planteada
 
 
 > + **_Curso_**: DECISION - Uso de información sintética como apoyo a la toma de decisiones. Proyecto TAO (Tropical Andes Observatory)
@@ -11,7 +11,7 @@
 
 Esta sesión tiene la siguiente finalidad:
 
-> Construir un mapa conceptual (o mapa decisional) que nos permita encontrar respuestas a la siguiente pregunta: "¿En qué lugares del páramo colombiano debemos de instalar puntos de monitoreo para controlar a las especies de flora exótica e invasora?"
+> Construir un modelo conceptual (o mapa decisional) que nos permita encontrar respuestas a la siguiente pregunta: "¿En qué lugares del páramo colombiano debemos de instalar puntos de monitoreo para controlar a las especies de flora exótica e invasora?"
 > 
 
 También tiene los siguientes objetivos específicos:
@@ -108,18 +108,6 @@ En las siguientes secciones se describe el proceso de construcción de un mapa c
 ## Diseño de un modelo conceptual para el problema seleccionado
 
 
-
-SEGURAMENTE TODO LO QUE HAY AQUÍ ES BORRABLE.
-
-- INCORPORAR LO QUE SE HIZO EN LAS DOS SESIONES.
-- PONER ENLACES A LAS DISTINTAS VERSIONES DEL MAPA DECISIONAL
-- COMPLETAR LO QUE HICIMOS Y PONERLO EN BONITO
-- DAR PIE A LOS DOS GUIONES QUE FALTAN:
-  - CREACIÓN DE MAPAS DE CRITERIOS
-  - INTEGRACIÓN DE VARIABLES.
-
-
-
 En este acto docente intentaremos reproducir de manera explícita el proceso que se sigue habitualmente cuando se prepara y ejecuta un proyecto de investigación científica. La idea es que los estudiantes sean capaces de abstraer el conocimiento adquirido para aplicarlo a otras situaciones.
 
 El hilo argumental comienza en la identificación de variables implicadas en el proceso socioecológico a analizar. Este primer paso implica un nuevo proceso de desagregación, puesto que trataremos de evaluar en qué medida el proceso en cuestión depende de distintas variables biofísicas. Nos preguntaremos: ¿qué variables ambientales y socioeconómicas pueden condicionar la idoneidad de cada punto para instalar en él un punto de monitoreo? Abordamos esta pregunta durante la primera sesión práctica del curso. Nos dividimos en grupos (Ver imagen inferior) y cada grupo hizo lo siguiente:
@@ -142,40 +130,9 @@ El hilo argumental comienza en la identificación de variables implicadas en el 
      + Mostrar las fuentes de datos utilizados en cada variable. Este aspecto es fundamental porque nos obliga a "aterrizar" en la realidad que, en este caso, está condicionada por la disponibilidad de datos. En nuestro caso trabajaremos con la información disponible sobre los páramos de Colombia. Además de explicitar la fuente de datos a utilizar, indicaremos de manera general los procedimientos necesarios para obtener el criterio decisional en cada caso. 
      + Esbozar las relaciones entre los distintos criterios para obtener una propuesta que satisfaga el objetivo planteado. Además de definir los criterios decisionales, es importante identificar cómo éstos se relacionan entre sí. Aunque lo veremos con detalle en las siguientes sesiones, en la siguiente versión del mapa conceptual incorporaremos un esbozo de estas relaciones. 
 
-+ Tras incorporar lo anterior, obtenemos este mapa conceptual que también se puede ver a continuación:
++ Tras incorporar lo anterior, obtenemos [este](https://github.com/aprendiendo-cosas/TP_mapa_decisional_TAO/raw/main/mapa_conceptual/modelo_conceptual_paramos_consensuado_v1.drawio.zip) mapa conceptual que también se puede ver a continuación:
 
 <iframe frameborder="0" style="width:100%;height:1711px;" src="https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=modelo_conceptual_paramos_consensuado_v2.drawio#R5V1bk5u4Ev41rsp5SMrizuNkJpuc2tuck9TZzb5pQLG1i8ERMJf8%2BoMwYJCwrRkbq%2BXZqtQaWXhA6m7193WrNbOvV48fGV4vf81iksysefw4s29mloU8z6v%2Bx1ueNi2Wi5xNy4LRuOm1bfhMf5Cmcd60ljQm%2BaBjkWVJQdfDxihLUxIVgzbMWPYw7PYtS4Z%2FdY0XRGr4HOFEbv2DxsWyeQ3b9rZffCJ0sWz%2FtOc2L7jCbe%2FmVfIljrOHXpP9YWZfsywrNp9Wj9ck4cPXDszmvp92fNs9GSNpoXJD9uU%2Fv63yj395f10%2FXod%2F%2F%2FPHpw8%2Fv21%2B5R4nZfPGV%2BuCFmXMJ62ezIIwRouM0Wzz1zD%2FyTQvcIIZbynTIsvr3vyls5T3JVnzysVTO5DV26%2F5R%2F4LSUKSbMHwama%2FXxNGV6T6I%2BJ3t9sv3j8saUE%2Br3HEf%2BGhErWqbVmskuoKVR%2B%2F0UfSyg6%2FlkemfU3CCvLYa2pG6iPJqj%2FFnqounegid3NPI7lvHbuZx4etHCC3aVv2RCBo2nAjeovux7eTU31o5md8rlY3Dz9nyz%2Fzj9bDPz9%2Bd%2BZX3xf3bx1pUElcCWtzmbFimS2yFCcftq3vWVamMeG%2FOq%2Butn1%2BybJ1M1p%2Fk6J4akYPl0U2HNtqCNnTn%2Fz%2Bd257%2BbX%2F3c1j8%2BObq6fmaucc5FnJIrJHJK1GzTFbkGLPcDT9%2BBjsnVFGElzQ%2B6FCHzM5%2B566p0i3LLvDdzShMY5b%2FVgzkpM0orhtSPgnkq9JRPllJZzX9uy9XdCo%2FiLlpq0keUE37anpetVZw0atbGdEq8IRrfKn0qpAh1a9XDs8Re3wTq0d9a1XjOGnXod1RtMi7%2F3yLW%2FYTnc4nG0PCUuU0N229vavPmweYDvb3Zu8XHM9SXO%2FkFWlPrgo%2BWJntr7ZwoB6I%2BpmjaibN5W6hVoWsUda9Naw6upru2hVn7crGL84fgHzJ1G9g8riiiZyYyOau4RpO4He%2BCMrXrWMrWmBo0tZrlCgUX9GRz2QRv1%2FtHo%2F7py%2Fabzzxp3gTjlOyWozFd9ogvN%2FmT4fTucHNBPih7Zmg9YiVfgW7fyufKjVWZEtpq3XYoaS7n4qV6SFB%2Fz2vKzUzHQl7Xx6ME4HQtKYXiR0bm2RIejAdYYcixs%2BDx4I%2FaeBB%2B2Y9rT2t7JgfNGtl9iLUFknGM4EAJW1dKjsEaqHzrSGvdDrf65uIsGI%2B87zdFPoP5FuyvT1F7rOZg25dhGqKSAQP9CumbZhmnlyolivZkqaZj9TM%2B3Taua4kGgJVhwhJLZZntN%2BawvEOtuSdb5KmuCi2TbZ8cAZZc8wfXM0GWVxBk5klB00%2FDuB9zyFFPpPpJCOpJD%2FxTHt07XVzG3i%2BjSNaMwxjum6arvCSOvXVdcwXXUvy4ESg2IHdXV%2BXP%2F2PabVbVfS7T4UuifVyF1QXEYIAwThGZV6fPzlwMytmOzRC8x8L3lDlKUFo3flE%2Baml%2Fer80FiWnVkec8qb3NFaHqP88z8wLRjiVqCRiI53sgUniK%2FajyFR1ah65LldXYbf%2FIVznGX6YYX5QXMgeC1eI72OZBjJDc0L3CjRvwfT0gkaT0reMG4jlzdRJXX0k7TAqc4JizLjZ8e0an05p5u12V%2BeZGU8RedqdEBYTCJb%2FRsTqhZ%2Fne5JMg7cahk36D18T43m7WKIq6e6%2F0pkdfD3jTOUtJ0bVIbcsKxSZ1zPFNOOY6zqFzVEnBIie82gvrL3UGn%2BRkZj%2B4wtDKW8Dimw5OlEWuhb1%2BqwfVVzwwfqdaWolqfPJhz1IxZkl79VKaR6B4WDKf5t4yt9rj5bJmt7sr8sCacQvA9691Q9NEY9J67suyj%2BVTC75sk%2FC%2BX85Es4X1Z60DkXM7EvUoWGaPFqmft4zqmt7lKabSU7b5eIXf8cwr53ohXbyDXn2YXEg%2BtBlgYcf3se6jFK365eUBnSlHmbue7ee%2B%2F4cRJE3Iigi8U2KGWWDzoHe%2B4YSJvWU6gFtxlDmK3S7ngHd%2BXSUrY1psG6fyGAoJ1VFV1Mu%2B3%2FWO9UTdMdwN5bR%2FvGIJa3EcI0l%2FxesuNDmRdXNEHwz39qi6KbWjpXmFaKTVXbFVzwS1Y2AvJhOQtyyKS41W77%2BLzvz%2FKEqvqgw6n5BSyK6Z6uGP%2B6IjsTge6LDkRxCzh7UoPHLS5J3esjht4mZGbnDk4vUBLLLiiMZ5OoEMt8nt%2BGsFyFOU%2BmAZQPDtpWQxo2f5zPf8Tx%2Br3Dutuz3%2BV3dPN%2BlLjAK6pPPpoJghAyAWHAuRQr2ErkmodAOvkAarjBl7m%2BPooYKfcawYEkggDQAQyfWCYCKsC2TZdC4oIj2X6QEYECInpygAggQyrzJLeVigPG%2BCTZzofF%2F2V%2BS%2FzIIFkjgFggkA2C4ZJtCrIheLsuyK5fGAjlOTsO%2BfYCWXLGFxw9jHNk%2B3asSkEUE1gtCSNv99ku5nh7DvgnH3bMl0zVTen2SfP1D9u4GXer%2B%2FsxzSvs5%2BlxWe90Q2GVyNJnGd3%2FUWB1u%2F62zJ%2FYJhAu6oCDYtPtWXaYNT1n7%2BJ26TlDY4tGOmM%2BkgVJo2elLSVUT82sGWOwDDx9lXFG1asy5YpBQOxgWivAWCDUEvO7RECPE1WO5T8IOTvBwJQkIOMKAXkUOAVrjUQXQJy8G1wyMF0lqrdbHBwJXIsUCtR%2B9xmIwdRoPUjB0cmIwwTaEtVoGHRru1zH0YOQ5sOETL4Ymkw%2FZDBMT3DyFHNtDi9a3bcwMtUhIGQQTTUECDD5Z32MS5AqlQQkKiDNbeHIAVmipEjM1VXPUAQ9%2FbU1woa4Zh%2FbnfWdqUo1tldgiV13hah6KORiLAIp6YmKYUCEeaMlRQZO%2B9nwlXNdCLMUSXCHFh7FRyZCDMQfgSC4UFWuwdDG%2F5wjZdo1W0MLqxQnCMzGTvwB8N5QRj9gRko0BEK5YLQ3BkR5vOiDldmKcySZlc15cOBJc2uTGMYiDpCXyi63sbL9aEO95WgDleVRnJtWIIv00hKjsn2hMGd9ePO7Z5Yc4DuySspD%2BKqJhSd3ot5GegW8z3RvMnC3oW6JZgu3jEN7HZlHtIoN2u7tEBys0yPwrmqHJcLi9x1ldOdcLpBvgnNaVPo7ZGuON0DSbpRKBymEYydHofGhBtNJdztWnbxS47qbp%2FWt4eiA%2FvLVgzy%2FHqEaZaSrlRs%2F1BnmRbSDjv0H6EYwi2IPq6zhu2UsNxQiFmALIjkyai%2BH7OIsrwgrU7NLO97mfFYQZKQRR28aBtmUpDCxHiEdMQLgHiEJ6NPwxRX%2BZQfWHyXdwkbKaRzQQEAfs%2F0nRSeKrTwT05kvWwpcmSAuX8tkhYv8Y6JFiNl7AMUyYvn3kBA8p7p4T9PNaDtwUIx3iXs7LBcG1zAxAt0CLCGgtKqcW8fmODL3KGxARNR%2FAH4T75R7BV5pEXvturqa%2B%2Bb7U384niV8VVZAiiumexoHdgWdfCOaVwzX%2BYJzHLNxHPvIbhmvunY3lfF9j4sbO8rhwzFIMuWEMvXCf7R9Acm6eACLv4rSXHxVZkBD1aNBV8G3n2PbcACDyW%2Fbd0cBSdEXTo%2FTn8ERnLk9EdgfC3HR2tQClX87sOKxPsjCendSTh0QQvMf4Ik5L6LPepGK%2BIuQQhoJXwlUq4aa4eCPAJDSGFfsfTn%2FM2apDFvIqDcMR8gJxwaRSG8XCnb1CNTkgZ84RAlK9yvklLOgHWOI0fbUd1dIyUnaU67WL%2BJqQA%2BuEOUAtPLSASWqjLCKiPRPvdOcFStOn0uu8NEQy2Y49UdX52416jZTxSFW3%2BNlMD0WhKBai2JwIMl3HIyBuzC6j68o5YC0w%2B2CFQPtmgXNyjCK6c2mBdhF40xgDoogRbMfoT8qjJM4cmN726%2FfE%2BNRVck2nfUWDyZwy4zWb%2BvKxc8zlidMX%2BXZQnB6Vi%2B4hmPdUaeiJRHfO7gnC53aPomqFDVsIewqNdw5FTy%2FSBSwJg0zlLS%2BN38HO3aG2ezbbGdeHPyUUqLSgd2n8%2BtuT6OJ1bn1A1CuzXn0pmjcITOHT%2F3HZbiyGTpB%2F55UE5qVSYFjRjlaRqy6Gs1%2BW%2FRCBQ9q81HbX6jKTYezVWTMNDpS5%2B%2FiOW0bdGsHch5sj2xTtg5Up66gVWo51bXbquXn5uU4G4X4pLGFZjG7K5k%2FBZhkap%2BoPLCdp%2FADWMRsi2BlHZUI%2BcTrkKmbyFBc9VMETSHlSrSPfkOOvSwFmgmPyV5DlUz2idjP9Hc9D0anZQqyDOssoPdkz%2FnfBlIAWbbEgos%2BN6IPJ%2BXEUVz0w%2Fm68RUQaBhlavqntxoVlSy0h7Svu8I2a8kjbVLBNYGKWQI4IsQQJFDfTY4EdOn28O61MGJdw5w0r7%2By8EJTgr%2BTcGj1J0BMBOiOAE4iIJMT9dAyFI1AghWwkb35OoQZVQXdAMVUaoBABVkep5GJ6sKUg0rU6N7cmOBihPCAyrI9NyNTkwVBBpW9kb35GYDFdFKgwAqWoq76QAqyrQTlNiHhGOAwguZFdsHL%2Bpdsu%2BvooTUX5fsbpNOYiac8Ofw4ITxhBpSJtSsk6vqkWO%2Fv57JLtnXDR9EKQYAHyyZtDBMitueClIMjBa2ZELCLPggJspCgA%2Bt%2FBos0MrZIwhYINqSuQgD4YNopUHAh1dSmQBZymQQFPggnZgIM3XKkrmqffDhfsPIbvnYKFuVKY36KmsmlBCPUAMAJSzjKS9LmfKyYOW1d0%2B%2BA0qo6IFuWCFKNARYIZMVpkm0avUQZAMjcS3l8hxAYUUIEVaYvvGoE1MFEw0seGzLHIWBsEK00iBghfa6zUHYBxbzd35gHwAX9dUtYbQaA8KORxwtjlAw9MDgdvvksDeR2p5QH8Aa2U595g1Fr6QCWiexGnabvgxMt7vPDpZXmhYs2ztiba9st6vtCvkhE%2B52rS5Zxk%2Bu2k5k9Y7Lur5j1fh%2F"></iframe>
-
-
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1. ¿Son todas las variables del mismo tipo? Es de esperar que algunas variables tengan carácter biofísico (precipitación, profundidad del suelo, etc.) y otras socioeconómico (distancia a vías de comunicación, tasa de desempleo por municipio, etc.). Esta distinción será importante cuando las integremos todas para dar una respuesta final.
-2. Fuentes de datos: Una vez identificadas las variables que consideramos relevantes, procederemos a evalular la disponibilidad de datos para su uso en el análisis. En ese proceso quizás tengamos que usar variables subrogadas de las originales. [Aquí](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.13366) tienes una definición de lo que significa variable suborgada (lee solo el Abstract del artículo para una idea general) y [aquí](https://ebooks.publish.csiro.au/content/indicators-and-surrogates-biodiversity-and-environmental-change) un libro completo que trata sobre el asunto. La identificación de las fuentes de datos de partida también nos permitirá caracterizar preliminarmente el procesamiento que será necesario aplicar a los datos originales para satisfacer nuestras necesidades. Esta última frase, que pasa desapercibida, es muy importante porque ese procesamiento ocupará el grueso de la asignatura. En cada uno de los procesos aprenderemos técnicas diferentes (bases de datos, teledetección, cartografía de la vegetación, etc.)
-3. Hipótesis previas sobre cómo creemos que podría participar cada variable en el proceso general. Es decir, analizaremos en qué medida contribuye cada variable seleccionada a explicar la regeneración de la encina bajo el pinar. Por ejemplo, ¿Cómo afecta la densidad del pinar a la regeneración de la encina? En este caso está claro porque tenemos evidencias al respecto: a densidades bajas hay poca regeneración y a densidades altas también. Este paso será útil para hacernos una idea de cómo pueden interactuar las distintas variables que hemos seleccionado.
-4. Integración de todas las variables para obtener un resultado único. Se trata de la fase más crítica porque implica construir un modelo conceptual en el que todas las variables seleccionadas se integren y nos permitan responder a la pregunta (¿de qué variables depende la regeneración?, ¿Cuál es el peso relativo de cada variable?). El resultado de este paso deberá de ser un mapa que muestre cuantitativamente la "intensidad" del proceso de regeneración en cada punto del territorio. Esta intensidad se podrá medir en probabilidad, idoneidad o en número de encinas que se regeneran dependiendo del tipo de metodología utilizada para la integraión. En este paso exploraremos tres alternativas diferentes:
-   + Métodos estadísticos: se trata de encontrar una función matemática que explique correctamente cómo cambia la variable dependiente (regeneración de encina bajo el pinar) en función de las múltiples variables independientes. Esta aproximación es la tradicional. Implica contar con una serie de lugares del territorio para los que haya datos de las variables independientes y de la dependiente (regeneración). Para encontrar la función matemática en cuestión necesitamos proponer un test estadístico cuya naturaleza dependerá de cómo sean los datos de partida. Esta aproximación es muy potente y es la más común en la ciencia ecológica. En nuestro caso no podemos llevarla a la práctica porque no disponemos de los datos necesarios. Además, la función matemática sería muy compleja porque usamos muchas variables independientes de entrada.
-     
-   + Álgebra de mapas: Se trata de un conjunto de técnicas que permiten combinar mapas procedentes de formatos diversos para resolver un problema de ubicación en el espacio de una actividad dada (en nuestro caso ubicación de las zonas con más regeneración). La idea es usar la capacidad que tienen los SIG y nuestro conocimiento del sistema ecológico en cuestión para construir un modelo espacial. Según el criterio experto podemos decir algo así: "la regeneración será mayor en lugares con suelos profundos Y con mucha vegetación natural en el sotobosque". Esa afirmación es fácilmente implementable en un SIG. Usaremos técnicas parecidas a la esbozada anteriormente para integrar los datos. Detallaremos este método en las sesiones finales de la asignatura.
-   + Métodos basados en procesos: Consisten en simular el funcionamiento íntimo de los procesos elementales implicados en la pregunta en cuestión. Es el conjunto de métodos más complejo. Su aplicación requiere disponer de un conocimiento profundo de todos los procesos fisiológicos y ecológicos implicados en la regeneración de la encina bajo el pinar. Sería algo parecido a los modelos que nos ayudan a predecir el clima: se basan en el conocimiento de las leyes físicas que rigen el intercambio de materia y energía entre los distintos elementos del sistema climático. Definitivamente no tenemos capacidad de generar modelos de ese tipo para el problema ambiental. Sin embargo, seguramente tendremos una charla sobre una persona con gran conocimiento en este tipo de modelos.
-
-+ El abordaje de la parte de "gestión" de la pregunta inicial se realizará usando la técnica de [Evaluación Multicriterio](http://wiki.gis.com/wiki/index.php/Multi_Criteria_Evaluation). Se trata de una aproximación que permite identificar lugares del territorio que reúnen unas características determinadas. Es muy utilizado para seleccionar lugares en los que realizar una actividad concreta. En nuestro caso esta técnica nos permitirá combinar el mapa obtenido como respuesta a la pregunta científica con las variables socioeconómicas que identificamos en los pasos anteriores. Analizaremos con detalle esta técnica en las sesiones finales de la asignatura.
-
-La siguiente figura muestra resumidamente el hilo argumental que seguiremos:
-
 
 
 
